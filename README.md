@@ -30,7 +30,6 @@ for detailed instructions.
 ## Screenshots
 
 ### Compilation and Execution
-![Compilation Screenshot](https://imgur.com/3YKS8Ca.png)
 ![Execution Screenshot](https://imgur.com/l8yyPpb.png)
 
 
