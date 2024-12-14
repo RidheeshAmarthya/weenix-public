@@ -27,8 +27,12 @@ for detailed instructions.
 
 ---
 
-https://imgur.com/3YKS8Ca.png
-https://imgur.com/l8yyPpb.png
+## Screenshots
+
+### Compilation and Execution
+![Compilation Screenshot](https://imgur.com/3YKS8Ca.png)
+![Execution Screenshot](https://imgur.com/l8yyPpb.png)
+
 
 # Weenix Operating System Project  
 
