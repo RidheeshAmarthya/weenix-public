@@ -36,7 +36,7 @@ for detailed instructions.
 # Weenix Operating System Project  
 
 ## Overview  
-The Weenix Operating System is a modular, Unix-like kernel developed as part of USC’s CSCI 420 (Operating Systems) course. This project involved building core kernel components, including process management, threading, virtual memory, and a file system, entirely from scratch in C.  
+The Weenix Operating System is a modular, Unix-like kernel. This project involved building core kernel components, including process management, threading, virtual memory, and a file system, entirely from scratch in C.  
 
 This project challenged me to design and debug intricate low-level systems while ensuring seamless integration across various subsystems, requiring a deep understanding of computer architecture and operating system principles.  
 
